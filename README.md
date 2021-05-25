@@ -1,12 +1,36 @@
-﻿# [WCH](https://github.com/SoCXin/WCH)
+﻿# [GD32F303](https://github.com/SoCXin/GD32F303)
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-## [厂商简介](https://github.com/SoCXin/WCH/wiki)
+* [GigaDevice](https://www.gigadevice.com/zh-hans)：[Cortex-M4](https://github.com/SoCXin/Cortex)
+* [L4R4](https://github.com/SoCXin/Level) ：120 MHz * 1.25 DMIPS/MHz (285CoreMark)
 
-南京沁恒微电子[WCH](http://www.wch.cn/) 是一家集成电路设计公司，主要产品包括：有线网络、无线网络、USB和PCI类接口芯片以及集成上述接口的单片机。
+## [简介](https://github.com/SoCXin/GD32F303/wiki)
 
-[![sites](docs/WCH.png)](http://www.wch.cn/application.html)
-[![sites](docs/mcu.jpg)](http://special.wch.cn/zh_cn/mcu/)
+[GD32F303](https://github.com/SoCXin/GD32F303) 系列
 
-###  [SoC芯平台](http://www.SoC.Xin)
+
+[![sites](docs/GD32F303.png)](https://www.gigadevice.com/products/microcontrollers/gd32/arm-cortex-m4/mainstream-line/gd32f303-series/)
+
+### 关键特性
+
+* 5 x UART
+
+#### 封装规格
+
+* LQFP48
+* LQFP64
+* LQFP100
+* LQFP144
+
+### [资源收录](https://github.com/SoCXin)
+
+* [参考文档](docs/)
+* [参考资源](src/)
+* [参考工程](project/)
+
+### [选型建议](https://github.com/SoCXin)
+
+[GD32F303](https://github.com/SoCXin/GD32F303)
+
+### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)

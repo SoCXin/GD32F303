@@ -1,0 +1,40 @@
+{
+    "type":"MCU",
+    "name":"GD32F303",
+    "series":["GD32F303CC","GD32F303RE"],
+    "peripheral": ["ADC","UART","I2C","SPI","PWM"],
+    "package":["UFBGA100","LQFP100","LQFP64","WLCSP49","UFQFN48"],
+    "manufacturer": {
+        "vendor":"gigadevice",
+        "homepage":"https://www.gigadevice.com/products/microcontrollers/gd32/arm-cortex-m4/mainstream-line/gd32f303-series/"
+    },
+    "url":"http://www.SoC.xin/GD32F303",
+    "repo":"https://github.com/SoCXin/GD32F303",
+    "version":"1.0.0",
+    "Core": {
+        "num": 1,
+        "architecture":"Cortex-M4",
+        "Freq":[64,72]
+    },
+    "GD32F303": {
+        "SRAM":20000,
+        "Flash":64000,
+        "package":"QFN20",
+        "peripheral": ["ADC","TIM","PWM"],
+        "GPIO":18,
+        "price":6.8
+    },
+    "UART": {
+        "mark": ["UART1","UART2"],
+        "BIT":[5,6,7,8,9],
+        "ISO7816":true,
+        "LIN":true,
+        "BPS": [48,3000000]
+    },
+    "ADC": {
+        "num": 1,
+        "channel": 8,
+        "resolution": 12,
+        "rate": 1024
+    }
+}
